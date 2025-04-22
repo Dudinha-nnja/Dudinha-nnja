@@ -24,8 +24,8 @@
 
 ### ✨ Um pouquinho dos meus dados:
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dudinha-nnja&show_icons=true&theme=rose_pine" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudinha-nnja&layout=compact&theme=rose_pine&langs_count=5" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dudinha-nnja&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudinha-nnja&layout=compact&theme=radical&langs_count=5" />
 </p>
 
 <p align="center">
