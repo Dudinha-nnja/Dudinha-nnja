@@ -25,7 +25,7 @@
 ### ✨ Um pouquinho dos meus dados:
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dudinha-nnja&show_icons=true&theme=rose_pine" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudinha-nnja&layout=compact&theme=rose_pine"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudinha-nnja&layout=compact&theme=rose_pine&langs_count=5" />
 </p>
 
 <p align="center">
@@ -40,4 +40,4 @@
 
 ---
 
-> _“Codar com amor deixa tudo mais bonito — inclusive a internet.”
+> _“Codar com amor deixa tudo mais bonito — inclusive a internet.”_
