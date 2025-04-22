@@ -28,6 +28,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudinha-nnja&layout=compact&theme=rose_pine"/>
 </p>
 
+<p align="center">
+  <img src="https://example.com/pink-pig-icon.png" width="50" alt="Cute pink pig">
+</p>
+
 ---
 
 ### 🐾 Me encontra por aí:
