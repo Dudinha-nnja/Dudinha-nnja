@@ -24,8 +24,8 @@
 
 ### ✨ Um pouquinho dos meus dados:
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dudinha-nnja&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudinha-nnja&layout=compact&theme=radical&langs_count=5" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dudinha-nnja&show_icons=true&theme=rose_pine" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudinha-nnja&layout=compact&theme=rose_pine"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 ### 🐾 Me encontra por aí:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fbaed2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-rodrigues-oliveira-84531219a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail](https://img.shields.io/badge/-eduarda@email.com-ff9ecb?style=flat&logo=gmail&logoColor=white)](mailto:eduarda@email.com)
+[![Gmail](https://img.shields.io/badge/-eduardarod04@gmail.com-ff9ecb?style=flat&logo=gmail&logoColor=white)](mailto:eduardarod04@gmail.com)
 
 ---
 
