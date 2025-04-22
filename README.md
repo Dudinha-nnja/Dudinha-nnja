@@ -12,7 +12,7 @@
 
 ---
 
-### 💖 Minhas tecnologias queridinhas:
+### 💖 Minhas tecnologias:
 ![HTML](https://img.shields.io/badge/-HTML5-fbaed2?logo=html5&logoColor=fff&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-ff9ecb?logo=css3&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fed6e3?logo=javascript&logoColor=000&style=flat)
