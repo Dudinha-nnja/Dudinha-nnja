@@ -40,4 +40,4 @@
 
 ---
 
-> _“Codar com amor deixa tudo mais bonito — inclusive a internet.”_
+> _“Codar com amor deixa tudo mais bonito — inclusive a internet.”
