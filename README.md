@@ -8,6 +8,12 @@
  Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento front-end.
 Tenho interesse em criação de interfaces intuitivas, design funcional e automações que otimizam processos e aumentam a produtividade.
 </p>
+🎓 Formações que fazem parte da minha jornada como dev:
+
+- 💻 **Técnica em Informática**
+- 🎨 **Desenvolvedora Front-end (SENAI)**
+- **Ingles Avançado**
+- 🌐 **Cursos em andamento**: AWS, Cisco e Fullstack
 
 ---
 ### ✨ Um pouquinho dos meus dados:
