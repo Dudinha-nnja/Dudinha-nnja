@@ -24,11 +24,10 @@
 
 ### ✨ Um pouquinho dos meus dados:
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dudinha-nnja&show_icons=true&theme=rose_pine" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudinha-nnja&layout=compact&theme=rose_pine"/>
-</p>
 <img src="https://github-readme-stats.vercel.app/api?username=Dudinha-nnja&show_icons=true&bg_color=ffc0cb&title_color=ff69b4&text_color=ffffff&icon_color=ff1493" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudinha-nnja&layout=compact&bg_color=ffc0cb&title_color=ff69b4&text_color=ffffff" />
+
+</p>
 
 
 
