@@ -32,7 +32,7 @@
 
 ---
 
-### 🐾 Me encontra por aí:
+### 🐾 Me encontre por aí:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fbaed2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-rodrigues-oliveira-84531219a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/-eduardarod04@gmail.com-ff9ecb?style=flat&logo=gmail&logoColor=white)](mailto:eduardarod04@gmail.com)
 
