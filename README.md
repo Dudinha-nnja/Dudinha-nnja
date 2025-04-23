@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas, dev front-end em formação. 
-  <br/>
-  Me encanto com código bonito, design delicado e automações que tornam tudo mais mágico.
+ Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento front-end.
+Tenho interesse em criação de interfaces intuitivas, design funcional e automações que otimizam processos e aumentam a produtividade.
 </p>
 
 ---
