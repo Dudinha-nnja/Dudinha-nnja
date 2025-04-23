@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Eduarda</h1>
+<h1 align="center">Prazer, sou Eduarda Rodrigues 🌸</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
