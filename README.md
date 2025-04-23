@@ -40,4 +40,4 @@ Tenho interesse em criação de interfaces intuitivas, design funcional e automa
 
 ---
 
-> _“Codar com amor deixa tudo mais bonito — inclusive a internet.”_
+> _“A flor que desabrocha na adversidade é a mais rara e bela de todas.”_
