@@ -28,6 +28,10 @@ Tenho interesse em criação de interfaces intuitivas, design funcional e automa
 - 🧑‍💻 <strong>Formação Fullstack (SENAI)</strong>
 
 </details>
+
+
+
+
 ---
 ### ✨ Um pouquinho dos meus dados:
 <p align="center">
